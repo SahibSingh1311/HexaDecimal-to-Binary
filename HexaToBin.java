@@ -19,7 +19,7 @@ static int toDeci(String inp){
 				j++;						//increment of power
 			}
 	}
-	System.out.println("Decimal Conversion is: "+out);
+	//System.out.println("Decimal Conversion is: "+out);
 	return out;
 }
 static void toBinary(String inp){
