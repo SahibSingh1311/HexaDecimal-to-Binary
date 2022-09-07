@@ -2,7 +2,7 @@ import java.util.*;
 
 public class HexaToBin{
 public static void main(String[] args){
-	String s1 = "AG9";
+	String s1 = "A9";
 	
 	toBinary(s1);
 }
